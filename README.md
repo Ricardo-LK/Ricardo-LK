@@ -79,23 +79,6 @@ Pipeline de detecção em tempo real utilizando YOLO, ONNX Runtime, Intel RealSe
 
 <div align="center">
 
-# 📊 GitHub Stats
-
-<table>
-  <tr>
-    <td>
-      <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Ricardo-LK&show_icons=true&theme=tokyonight&hide_border=true"/>
-    </td>
-    <td>
-      <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo-LK&layout=compact&theme=tokyonight&hide_border=true"/>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
 # 🌎 Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-lucas-kucek)
