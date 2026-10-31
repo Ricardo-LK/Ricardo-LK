@@ -6,7 +6,7 @@
 
 ## 🚀 Sobre Mim
 
-- 🎓 Estudante de **Ciência da Computação** na PUCPR (5º período)
+- 🎓 Estudante de **Ciência da Computação** na PUCPR (6º período)
 - 🔬 Pesquisador PIBIC em **sistemas autônomos para inspeção de subestações**
 - 🤖 Experiência com **ROS2, visão computacional, UAVs/UGVs e sistemas embarcados**
 - 🧠 Desenvolvimento de soluções utilizando **IA, OpenCV, YOLO e LLMs**
